@@ -33,16 +33,21 @@ Before you begin, ensure you have the following installed on your system:
    git clone https://github.com/your-username/draw-it.git
 
 2. Navigate into the project directory:
-   "open GitBash"
-   type: cd draw-it
+   ```bash
+   cd draw-it
 
 3. Open the project in your preferred IDE or text editor.
 
 4. Compile the Java code:
-   type: javac DrawItApp.java
+   Note:
+   If you're using an IDE, simply open the project and build it.
+   But if you're using the terminal/command line, run the following command to compile the Java files:
+   ```bash
+   javac DrawItApp.java
 
-5. Run the application:
-   type: java DrawItApp
+6. Run the application:
+   ```bash
+   java DrawItApp
 
 ## Usage
 
