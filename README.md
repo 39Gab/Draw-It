@@ -51,8 +51,7 @@ Before you begin, ensure you have the following installed on your system:
 
 ## Usage
 
-- **Once the application is launched, you can begin drawing on the canvas:
-
+- Once the application is launched, you can begin drawing on the canvas:
 - Draw freehand: Click and hold the mouse to draw freely on the canvas.
 - Choose drawing colors: Use the color palette to select a color for your drawing.
 - Clear the canvas: Click the "Clear" button to reset the canvas and start a new drawing.
@@ -61,10 +60,10 @@ Before you begin, ensure you have the following installed on your system:
 
 ## Features
 
-- **Freehand drawing with adjustable brush sizes.
-- **Select from a variety of colors.
-Clear the canvas to start fresh.
-Save your artwork to an image file.
-Simple, intuitive interface.
+- Freehand drawing with adjustable brush sizes.
+- Select from a variety of colors.
+- Clear the canvas to start fresh.
+- Save your artwork to an image file.
+- Simple, intuitive interface.
 
-That's all. If you have any issues or suggestions, feel free to open an issue or pull request.
+**That's all. If you have any issues or suggestions, feel free to open an issue or pull request.**
