@@ -39,9 +39,9 @@ Before you begin, ensure you have the following installed on your system:
 3. Open the project in your preferred IDE or text editor.
 
 4. Compile the Java code:
-   Note:
-   If you're using an IDE, simply open the project and build it.
-   But if you're using the terminal/command line, run the following command to compile the Java files:
+- Note:
+  - If you're using an IDE, simply open the project and build it.
+  - But if you're using the terminal/command line, run the following command to compile the Java files:
    ```bash
    javac DrawItApp.java
 
@@ -51,18 +51,18 @@ Before you begin, ensure you have the following installed on your system:
 
 ## Usage
 
-Once the application is launched, you can begin drawing on the canvas:
+- **Once the application is launched, you can begin drawing on the canvas:
 
-Draw freehand: Click and hold the mouse to draw freely on the canvas.
-Choose drawing colors: Use the color palette to select a color for your drawing.
-Clear the canvas: Click the "Clear" button to reset the canvas and start a new drawing.
-Change brush size: Use the slider to adjust the size of your drawing tool.
-Save your drawing: You can save your drawing as an image file using the "Save" option from the menu.
+- Draw freehand: Click and hold the mouse to draw freely on the canvas.
+- Choose drawing colors: Use the color palette to select a color for your drawing.
+- Clear the canvas: Click the "Clear" button to reset the canvas and start a new drawing.
+- Change brush size: Use the slider to adjust the size of your drawing tool.
+- Save your drawing: You can save your drawing as an image file using the "Save" option from the menu.
 
 ## Features
 
-Freehand drawing with adjustable brush sizes.
-Select from a variety of colors.
+- **Freehand drawing with adjustable brush sizes.
+- **Select from a variety of colors.
 Clear the canvas to start fresh.
 Save your artwork to an image file.
 Simple, intuitive interface.
