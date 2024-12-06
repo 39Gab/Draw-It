@@ -1,6 +1,6 @@
-# Draw It - Simple Drawing App
+# Draw It 
 
-**Draw It** is a basic drawing application built in Java. This app allows you to draw simple shapes, lines, and freeform sketches on a canvas using your mouse.
+This is a basic drawing application built in Java. This app allows you to draw simple shapes, lines, and freeform sketches on a canvas using your mouse.
 
 ## Table of Contents
 
